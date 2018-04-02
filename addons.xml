@@ -65,7 +65,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.flixnet" version="2018.03.01" name="[COLOR red][B]FlixNet[/B][/COLOR]" provider-name="[COLOR red][B]FlixNet[/B][/COLOR]">
+<addon id="plugin.video.flixnet" version="2018.04.02" name="[COLOR red][B]FlixNet[/B][/COLOR]" provider-name="[COLOR red][B]FlixNet[/B][/COLOR]">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="repository.jesusboxtv" version="1.0.0" />
@@ -104,7 +104,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.genesisreborn" version="2018.03.04" name="[B]Genesis Reborn[/B]" provider-name="Genesis Reborn">
+<addon id="plugin.video.genesisreborn" version="2018.04.02" name="[B]Genesis Reborn[/B]" provider-name="Genesis Reborn">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="repository.jesusboxtv" version="1.0.0" />
@@ -483,7 +483,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.flixnet" name="flixnet Module" version="1.00.036" provider-name="flixnet">
+<addon id="script.module.flixnet" name="flixnet Module" version="1.00.037" provider-name="flixnet">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 	</requires>
