@@ -621,7 +621,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.showboxarize" name="showboxarize Module" version="1.00.004" provider-name="showboxarize">
+<addon id="script.module.showboxarize" name="showboxarize Module" version="1.00.005" provider-name="showboxarize">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 	</requires>
@@ -673,7 +673,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.urlresolver" name="URLResolver" version="5.0.08" provider-name="tvaddons">
+<addon id="script.module.urlresolver" name="URLResolver" version="5.0.10" provider-name="tvaddons">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" optional="true" />
